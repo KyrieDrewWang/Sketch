@@ -135,4 +135,8 @@ models/
 outputs/
 vitruvion.sif
 
-sequence_data
+sequence_data/
+*.out
+vit_sketch_h5/
+tmp/
+sketch_h5/
